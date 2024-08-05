@@ -1,5 +1,5 @@
 ---
-name: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+name: "唐诗怡"
 school: HNUST
 ---
 
